@@ -1,0 +1,12 @@
+{
+  "title": "surf-plaza",
+  "description": "",
+  "iconUrl": "https://github.com/codesandbox/sandbox-templates/blob/main/react-vite-ts/.codesandbox/icon.png?raw=true",
+  "tags": [
+    "react",
+    "vite",
+    "javascript",
+    "typescript"
+  ],
+  "published": true
+}
