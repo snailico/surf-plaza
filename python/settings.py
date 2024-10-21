@@ -12,6 +12,7 @@ LANG ="zh_CN"
 # api url 
 HOST ="https://wx2.qq.com"
 LOGIN_HOST ="https://login.wx2.qq.com"
+QR_LOGIN_URL ="https://login.weixin.qq.com"
 
 #  https://login.wx2.qq.com/jslogin?appid=wx782c26e4c19acffb&fun=new&lang=zh_CN&redirect_uri=encodeURIComponent(https://wx2.qq.com/cgi-bin/mmwebwx-bin/webwxnewloginpage?mod=desktop)),
 API_Login =  HOST_URL + "/jslogin
